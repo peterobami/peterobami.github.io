@@ -20,10 +20,10 @@ My work is simple: I help people navigate change, find clarity, and build a life
 ---
 
 ## What I Help With
-- **Clarity & Direction** — understanding where you are and where you want to go  
-- **Leadership & Confidence** — developing presence, mindset, and emotional strength  
-- **Personal Growth** — building habits and beliefs that support long‑term change  
-- **Life Navigation** — guiding you through transitions and new beginnings  
+- **Clarity & Direction**  
+- **Leadership & Confidence**  
+- **Personal Growth**  
+- **Life Navigation**
 
 [Explore my services](/services/)
 
