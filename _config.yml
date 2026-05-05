@@ -21,7 +21,7 @@ title                    : "Peter Obami"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Peter Obami"
-description              : " "Innovator • Mentor • Leadership Guide • Personal Growth Coach""
+description              : "Innovator • Mentor • Leadership Guide • Personal Growth Coach"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
